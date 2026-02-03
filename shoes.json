@@ -42,7 +42,7 @@
     "price": 75.00,
     "inStock": false,
     "releaseDate": "1977-01-01",
-    "imageUrl": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77",
+    "imageUrl": "https://github.com/JeffreyDalman/shoes-json/blob/main/images/Gemini_Generated_Image_s5tcfvs5tcfvs5tc.png?raw=true",
     "category": "Skate",
     "technologies": ["Waffle Outsole", "Duracap"],
     "brandId": "BR-04"
@@ -54,7 +54,7 @@
     "price": 240.00,
     "inStock": true,
     "releaseDate": "2022-11-04",
-    "imageUrl": "https://images.unsplash.com/photo-1605348532760-6753d2c43329",
+    "imageUrl": "https://github.com/JeffreyDalman/shoes-json/blob/main/images/Gemini_Generated_Image_3yjf6j3yjf6j3yjf.png?raw=true",
     "category": "Lifestyle",
     "technologies": ["FuelCell", "ENCAP Rim"],
     "brandId": "BR-05"
@@ -66,7 +66,7 @@
     "price": 200.00,
     "inStock": true,
     "releaseDate": "2023-07-01",
-    "imageUrl": "https://images.unsplash.com/photo-1560769629-975ec94e6a86",
+    "imageUrl": "https://github.com/JeffreyDalman/shoes-json/blob/main/images/Gemini_Generated_Image_dp1t1edp1t1edp1t.png?raw=true",
     "category": "Running",
     "technologies": ["PureGEL", "4D Guidance System"],
     "brandId": "BR-06"
@@ -78,7 +78,7 @@
     "price": 70.00,
     "inStock": true,
     "releaseDate": "1917-01-01",
-    "imageUrl": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a",
+    "imageUrl": "https://github.com/JeffreyDalman/shoes-json/blob/main/images/Gemini_Generated_Image_td56uotd56uotd56.png?raw=true",
     "category": "Classic",
     "technologies": ["Canvas Upper", "Ortholite"],
     "brandId": "BR-07"
@@ -90,7 +90,7 @@
     "price": 85.00,
     "inStock": true,
     "releaseDate": "1968-08-20",
-    "imageUrl": "https://images.unsplash.com/photo-1608231387042-66d1773070a5",
+    "imageUrl": "https://github.com/JeffreyDalman/shoes-json/blob/main/images/Gemini_Generated_Image_h9p4z1h9p4z1h9p4.png?raw=true",
     "category": "Lifestyle",
     "technologies": ["Suede Upper", "Rubber Cupsole"],
     "brandId": "BR-08"
@@ -102,7 +102,7 @@
     "price": 179.95,
     "inStock": false,
     "releaseDate": "2022-03-31",
-    "imageUrl": "https://images.unsplash.com/photo-1512374382149-433a72b9a5a5",
+    "imageUrl": "https://github.com/JeffreyDalman/shoes-json/blob/main/images/Gemini_Generated_Image_xs26vvxs26vvxs26.png?raw=true",
     "category": "Running",
     "technologies": ["CloudTec", "Speedboard"],
     "brandId": "BR-09"
@@ -114,7 +114,7 @@
     "price": 180.00,
     "inStock": true,
     "releaseDate": "1985-04-01",
-    "imageUrl": "https://images.unsplash.com/photo-1584735175315-9d5df23860e6",
+    "imageUrl": "https://github.com/JeffreyDalman/shoes-json/blob/main/images/Gemini_Generated_Image_711ibp711ibp711i.png?raw=true",
     "category": "Basketball",
     "technologies": ["Air-Sole Unit", "Premium Leather"],
     "brandId": "BR-10"
