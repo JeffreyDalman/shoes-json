@@ -1,0 +1,92 @@
+[
+  {
+    "id": "BR-01",
+    "name": "Nike",
+    "originCountry": "USA",
+    "logoUrl": "https://logoipsum.com/logo/nike-placeholder.svg",
+    "foundedYear": 1964,
+    "isHighEnd": false,
+    "headquarters": "Beaverton, Oregon"
+  },
+  {
+    "id": "BR-02",
+    "name": "Adidas",
+    "originCountry": "Germany",
+    "logoUrl": "https://logoipsum.com/logo/adidas-placeholder.svg",
+    "foundedYear": 1949,
+    "isHighEnd": false,
+    "headquarters": "Herzogenaurach"
+  },
+  {
+    "id": "BR-03",
+    "name": "Reebok",
+    "originCountry": "UK",
+    "logoUrl": "https://logoipsum.com/logo/reebok-placeholder.svg",
+    "foundedYear": 1958,
+    "isHighEnd": false,
+    "headquarters": "Boston, USA"
+  },
+  {
+    "id": "BR-04",
+    "name": "Vans",
+    "originCountry": "USA",
+    "logoUrl": "https://logoipsum.com/logo/vans-placeholder.svg",
+    "foundedYear": 1966,
+    "isHighEnd": false,
+    "headquarters": "Costa Mesa, California"
+  },
+  {
+    "id": "BR-05",
+    "name": "New Balance",
+    "originCountry": "USA",
+    "logoUrl": "https://logoipsum.com/logo/nb-placeholder.svg",
+    "foundedYear": 1906,
+    "isHighEnd": true,
+    "headquarters": "Boston, Massachusetts"
+  },
+  {
+    "id": "BR-06",
+    "name": "ASICS",
+    "originCountry": "Japan",
+    "logoUrl": "https://logoipsum.com/logo/asics-placeholder.svg",
+    "foundedYear": 1949,
+    "isHighEnd": false,
+    "headquarters": "Kobe"
+  },
+  {
+    "id": "BR-07",
+    "name": "Converse",
+    "originCountry": "USA",
+    "logoUrl": "https://logoipsum.com/logo/converse-placeholder.svg",
+    "foundedYear": 1908,
+    "isHighEnd": false,
+    "headquarters": "Boston, Massachusetts"
+  },
+  {
+    "id": "BR-08",
+    "name": "Puma",
+    "originCountry": "Germany",
+    "logoUrl": "https://logoipsum.com/logo/puma-placeholder.svg",
+    "foundedYear": 1948,
+    "isHighEnd": false,
+    "headquarters": "Herzogenaurach"
+  },
+  {
+    "id": "BR-09",
+    "name": "On Running",
+    "originCountry": "Switzerland",
+    "logoUrl": "https://logoipsum.com/logo/on-placeholder.svg",
+    "foundedYear": 2010,
+    "isHighEnd": true,
+    "headquarters": "Zürich"
+  },
+  {
+    "id": "BR-10",
+    "name": "Jordan Brand",
+    "originCountry": "USA",
+    "logoUrl": "https://logoipsum.com/logo/jordan-placeholder.svg",
+    "foundedYear": 1984,
+    "isHighEnd": true,
+    "headquarters": "Beaverton, Oregon"
+  }
+]
