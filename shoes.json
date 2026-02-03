@@ -18,7 +18,7 @@
     "price": 190.00,
     "inStock": true,
     "releaseDate": "2023-03-05",
-    "imageUrl": "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb",
+    "imageUrl": "https://github.com/JeffreyDalman/shoes-json/blob/main/images/Gemini_Generated_Image_bwvisibwvisibwvi.png?raw=true",
     "category": "Running",
     "technologies": ["Light Boost", "Primeknit+"],
     "brandId": "BR-02"
@@ -30,7 +30,7 @@
     "price": 90.00,
     "inStock": true,
     "releaseDate": "1983-10-15",
-    "imageUrl": "https://images.unsplash.com/photo-1539185441755-769473a23570",
+    "imageUrl": "https://github.com/JeffreyDalman/shoes-json/blob/main/images/Gemini_Generated_Image_3g62yj3g62yj3g62.png?raw=true",
     "category": "Classic",
     "technologies": ["EVA Midsole"],
     "brandId": "BR-03"
