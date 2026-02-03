@@ -34,5 +34,89 @@
     "category": "Classic",
     "technologies": ["EVA Midsole"],
     "brandId": "BR-03"
+  },
+  {
+    "id": "SH-004",
+    "modelName": "Old Skool",
+    "description": "De legendarische skateschoen met de iconische zijstreep, gemaakt van stevig canvas en suède.",
+    "price": 75.00,
+    "inStock": false,
+    "releaseDate": "1977-01-01",
+    "imageUrl": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77",
+    "category": "Skate",
+    "technologies": ["Waffle Outsole", "Duracap"],
+    "brandId": "BR-04"
+  },
+  {
+    "id": "SH-005",
+    "modelName": "990v6 Made in USA",
+    "description": "De perfecte mix van performance en lifestyle, handgemaakt in de VS met premium materialen.",
+    "price": 240.00,
+    "inStock": true,
+    "releaseDate": "2022-11-04",
+    "imageUrl": "https://images.unsplash.com/photo-1605348532760-6753d2c43329",
+    "category": "Lifestyle",
+    "technologies": ["FuelCell", "ENCAP Rim"],
+    "brandId": "BR-05"
+  },
+  {
+    "id": "SH-006",
+    "modelName": "Gel-Kayano 30",
+    "description": "Biedt maximale stabiliteit en comfort voor hardlopers die extra ondersteuning nodig hebben.",
+    "price": 200.00,
+    "inStock": true,
+    "releaseDate": "2023-07-01",
+    "imageUrl": "https://images.unsplash.com/photo-1560769629-975ec94e6a86",
+    "category": "Running",
+    "technologies": ["PureGEL", "4D Guidance System"],
+    "brandId": "BR-06"
+  },
+  {
+    "id": "SH-007",
+    "modelName": "Chuck Taylor All Star",
+    "description": "De meest herkenbare sneaker ter wereld, geliefd om zijn eenvoud en tijdloze silhouet.",
+    "price": 70.00,
+    "inStock": true,
+    "releaseDate": "1917-01-01",
+    "imageUrl": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a",
+    "category": "Classic",
+    "technologies": ["Canvas Upper", "Ortholite"],
+    "brandId": "BR-07"
+  },
+  {
+    "id": "SH-008",
+    "modelName": "Suede Classic",
+    "description": "Een echte klassieker uit de archieven van Puma, beroemd geworden in de hiphop-scene.",
+    "price": 85.00,
+    "inStock": true,
+    "releaseDate": "1968-08-20",
+    "imageUrl": "https://images.unsplash.com/photo-1608231387042-66d1773070a5",
+    "category": "Lifestyle",
+    "technologies": ["Suede Upper", "Rubber Cupsole"],
+    "brandId": "BR-08"
+  },
+  {
+    "id": "SH-009",
+    "modelName": "Cloudmonster",
+    "description": "Hardlopen op wolken met een extra grote demping voor een unieke energie-ervaring.",
+    "price": 179.95,
+    "inStock": false,
+    "releaseDate": "2022-03-31",
+    "imageUrl": "https://images.unsplash.com/photo-1512374382149-433a72b9a5a5",
+    "category": "Running",
+    "technologies": ["CloudTec", "Speedboard"],
+    "brandId": "BR-09"
+  },
+  {
+    "id": "SH-010",
+    "modelName": "Air Jordan 1 High",
+    "description": "De legendarische basketbalschoen van Michael Jordan die de sneakercultuur voorgoed veranderde.",
+    "price": 180.00,
+    "inStock": true,
+    "releaseDate": "1985-04-01",
+    "imageUrl": "https://images.unsplash.com/photo-1584735175315-9d5df23860e6",
+    "category": "Basketball",
+    "technologies": ["Air-Sole Unit", "Premium Leather"],
+    "brandId": "BR-10"
   }
 ]
