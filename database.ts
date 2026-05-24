@@ -8,7 +8,7 @@ export async function connectDB() {
     try {
         // Wachten tot de database echt verbinding maakt voor we verder gaan
         await mongoose.connect(MONGO_URI);
-        console.log("Succesvol verbonden met MongoDB Atlas!");
+        console.log("Succesvol verbonden met MongoDB");
     } catch (err) {
         console.error("MongoDB connectie fout:", err);
     }
